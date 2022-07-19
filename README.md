@@ -17,7 +17,7 @@ The dataframe below displays the total rides, total drivers, total fares, averag
 
 The same data can be viewed below in a bubble chart, pie chart and box and whisker chart vizualizations:
 
-#### Fares by City Type:
+#### Fares and Rides by City Type:
 ![](Analysis/Fig1.png)
 
 #### Percentage of Fares by City Type:
