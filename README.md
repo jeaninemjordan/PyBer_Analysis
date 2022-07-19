@@ -13,7 +13,7 @@ This analysis explores and visualizes PyBer ride-sharing data from 2019 to inves
 
 The dataframe below displays the total rides, total drivers, total fares, average fare per ride, and average fare per driver by city type. This dataframe was created using the Pandas Groupby(), count() and sum() functions. The data was assigned to functions and reformatted into the table below and displays predictable results, likely accessability driven, following the trends of other ride-sharing data available. In this visualization, the rural cities account for the least amount of rural rides, drivers and fares; however, have the highest fares per rides and drivers. As the city size increases, rides and drivers do similarly and we see the fare per ride and driver decrease. 
 
-INSERT DATAFRAME IMAGE
+![](Analysis/DataFrame.png)
 
 
 
