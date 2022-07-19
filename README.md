@@ -17,7 +17,7 @@ The dataframe below displays the total rides, total drivers, total fares, averag
 
 The same data can be viewed below in a bubble chart format 
 
-![](Analysis/Fig1.PNG)
+![](Analysis/Fig1.png)
 
 
 The linechart below visualizes the total fare by city type throughout the months of January to April of 2019. This visualization was created using the pivot(), loc and resample functions and shows the viewer the fares by city types over time. By viewing the data in this format, a week by week picture is created that can aid in  forecasting revenue, planning rates, and understanding what improvements can be made to increase availability to disadvantaged areas. A noteworthy peak in fares during the month of February is observed in all city types that would be beneficial to further analyze but overall, it is evident that all city types experience similar peak and fall times throughout the year on greater and smaller scales.   
